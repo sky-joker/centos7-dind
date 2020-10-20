@@ -1,5 +1,8 @@
 # centos7-dind
 
+[![](https://img.shields.io/github/license/sky-joker/centos7-dind?style=for-the-badge)](https://github.com/sky-joker/centos7-dind/blob/master/LICENSE.txt)
+[![](https://img.shields.io/docker/image-size/skyjokerxx/centos7?sort=date&style=for-the-badge)](https://hub.docker.com/r/skyjokerxx/centos7)
+
 This centos7-dind is for building the container image of docker in docker of CentOS 7.
 
 ## About Container Image
